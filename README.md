@@ -44,9 +44,10 @@ For Ubuntu:
  $ git clone --depth=1 https://github.com/cleanbrowsing/dnsperftest2/
  $ cd dnsperftest2
  $ bash ./dnstest.sh
- 
-The results just like that:
+```
 
+The results just like that:
+```
                test1   test2   test3   test4   test5   test6   test7   test8   test9   test10  Average 
 cloudflare     1 ms    1 ms    1 ms    2 ms    1 ms    1 ms    1 ms    1 ms    1 ms    1 ms      1.10
 google         22 ms   1 ms    4 ms    24 ms   1 ms    19 ms   3 ms    56 ms   21 ms   21 ms     17.20
@@ -64,9 +65,10 @@ To sort with the fastest first, add `sort -k 22 -n` at the end of the command:
 
 ```
   $ bash ./dnstest.sh |sort -k 22 -n
-  
-After a while,you would see the results:
+```
 
+After a while,you would see the results:
+```
                test1   test2   test3   test4   test5   test6   test7   test8   test9   test10  Average 
 cloudflare     1 ms    1 ms    1 ms    4 ms    1 ms    1 ms    1 ms    1 ms    1 ms    1 ms      1.30
 norton         2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms      2.00
