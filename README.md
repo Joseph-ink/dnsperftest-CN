@@ -5,12 +5,17 @@ Shell script to test the performance of the most popular DNS resolvers from your
 Includes by default:
  * CloudFlare 1.1.1.1
  * Google 8.8.8.8
+ * Quad9 9.9.9.9
  * 114DNS 114.114.114.114
  * Alibaba 223.5.5.5
  * Baidu 180.76.76.76
- * Tencent 119.29.29.29
+ * DNSpod 119.29.29.29
  * Guangzhou Unicom DNS
- * Quad9 9.9.9.9
+ * USTC DNS
+ * TUNA DNS
+ * V2EX DNS
+ * CNNIC DNS
+ * OneDNS
  * Level3 4.2.2.1
  * Freenom 80.80.80.80
  * OpenDNS
