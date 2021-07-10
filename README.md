@@ -41,9 +41,9 @@ For Ubuntu:
 # Utilization
 
 ``` 
- $ git clone --depth=1 https://github.com/cleanbrowsing/dnsperftest2/
- $ cd dnsperftest2
- $ bash ./dnstest.sh
+ $ git clone --depth=1 https://github.com/azurerayid/dnsperftest-cn/
+ $ cd dnsperftest-cn
+ $ bash ./dnstest-cn.sh
 ```
 
 The results just like that:
