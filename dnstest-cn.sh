@@ -17,8 +17,6 @@ PROVIDERS="
 180.76.76.76#BaiduDNS 
 119.29.29.29#TencentDNS 
 221.4.66.66#GZunicom 
-211.95.193.97#GZunicom 
-210.21.122.166#GZunicom 
 210.21.4.130#GZunicom 
 80.80.80.80#Freenom 
 208.67.222.123#Opendns 
