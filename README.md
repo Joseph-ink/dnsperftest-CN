@@ -1,6 +1,6 @@
 # DNS Performance Test
 
-Shell script to test the performance of the most popular DNS resolvers from your location.
+Shell script to test the performance of the most popular DNS resolvers from your location (especially in China).
 
 Includes by default:
  * CloudFlare 1.1.1.1
@@ -18,18 +18,20 @@ Includes by default:
 
 # Required 
 
-You need to install bc and dig. For Ubuntu:
+You need to install bc and dig. For macos:
 
 ```
- $ sudo apt-get install bc dnsutils
+ $ brew install bc
 ```
 
 # Utilization
 
 ``` 
- $ git clone --depth=1 https://github.com/cleanbrowsing/dnsperftest/
- $ cd dnsperftest
- $ bash ./dnstest.sh 
+ $ git clone --depth=1 https://github.com/cleanbrowsing/dnsperftest2/
+ $ cd dnsperftest2
+ $ bash ./dnstest.sh
+ 
+ just like that:
                test1   test2   test3   test4   test5   test6   test7   test8   test9   test10  Average 
 cloudflare     1 ms    1 ms    1 ms    2 ms    1 ms    1 ms    1 ms    1 ms    1 ms    1 ms      1.10
 google         22 ms   1 ms    4 ms    24 ms   1 ms    19 ms   3 ms    56 ms   21 ms   21 ms     17.20
@@ -47,6 +49,8 @@ To sort with the fastest first, add `sort -k 22 -n` at the end of the command:
 
 ```
   $ bash ./dnstest.sh |sort -k 22 -n
+  
+  after a while,you would see the result:
                test1   test2   test3   test4   test5   test6   test7   test8   test9   test10  Average 
 cloudflare     1 ms    1 ms    1 ms    4 ms    1 ms    1 ms    1 ms    1 ms    1 ms    1 ms      1.30
 norton         2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms    2 ms      2.00
@@ -59,11 +63,3 @@ quad9          10 ms   37 ms   10 ms   10 ms   10 ms   145 ms  10 ms   10 ms   1
 yandex         177 ms  216 ms  178 ms  182 ms  186 ms  177 ms  183 ms  174 ms  186 ms  222 ms    188.10
 adguard        199 ms  210 ms  200 ms  201 ms  202 ms  202 ms  199 ms  200 ms  198 ms  201 ms    201.20
 ```
-
-# For Windows users using the Linux subsystem
-
-If you receive an error `$'\r': command not found`, convert the file to a Linux-compatible line endings using:
-
-    tr -d '\15\32' < dnstest.sh > dnstest-2.sh
-    
-Then run `bash ./dnstest-2.sh`
