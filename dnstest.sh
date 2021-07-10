@@ -8,22 +8,30 @@ command -v bc > /dev/null || { echo "bc was not found. Please install bc."; exit
 NAMESERVERS=`cat /etc/resolv.conf | grep ^nameserver | cut -d " " -f 2 | sed 's/\(.*\)/&#&/'`
 
 PROVIDERS="
-1.1.1.1#cloudflare 
-4.2.2.1#level3 
-8.8.8.8#google 
-9.9.9.9#quad9 
-80.80.80.80#freenom 
-208.67.222.123#opendns 
-199.85.126.20#norton 
-185.228.168.168#cleanbrowsing 
-77.88.8.7#yandex 
-176.103.130.132#adguard 
-156.154.70.3#neustar 
-8.26.56.26#comodo
+1.1.1.1#Cloudflare 
+8.8.8.8#Google 
+9.9.9.9#Quad9 
+4.2.2.1#Level3 
+114.114.114.114#114DNS 
+223.5.5.5#AliDNS 
+180.76.76.76#BaiduDNS 
+119.29.29.29#TencentDNS 
+221.4.66.66#GZunicom 
+211.95.193.97#GZunicom 
+210.21.122.166#GZunicom 
+210.21.4.130#GZunicom 
+80.80.80.80#Freenom 
+208.67.222.123#Opendns 
+199.85.126.20#Norton 
+185.228.168.168#Cleanbrowsing 
+77.88.8.7#Yandex 
+176.103.130.132#Adguard 
+156.154.70.3#Neustar 
+8.26.56.26#Comodo
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com qq.com www.baidu.com whatsapp.com"
 
 
 totaldomains=0
