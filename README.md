@@ -1,6 +1,6 @@
-# DNS Performance Test
+# DNS Performance Test (Optimized for China)
 
-Shell script to test the performance of the most popular DNS resolvers from your location (Optimized for China).
+Shell script to test the performance of the most popular DNS resolvers from your location.
 
 Includes by default:
  * CloudFlare 1.1.1.1
