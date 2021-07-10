@@ -15,13 +15,26 @@ Includes by default:
  * AdGuard
  * Neustar
  * Comodo
+ * 114 114.114.114.114
+ * Alibaba 223.5.5.5
+ * Baidu 180.76.76.76
+ * Tencent 119.29.29.29
+ * Guangzhou Unicom
 
 # Required 
 
-You need to install bc and dig. For macos:
+You need to install bc and dig. 
+
+For macos:
 
 ```
  $ brew install bc
+```
+
+For Ubuntu:
+
+```
+ $ sudo apt-get install bc dnsutils
 ```
 
 # Utilization
