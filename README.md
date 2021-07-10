@@ -64,7 +64,7 @@ comodo         21 ms   22 ms   22 ms   22 ms   22 ms   22 ms   22 ms   21 ms   2
 To sort with the fastest first, add `sort -k 22 -n` at the end of the command:
 
 ```
-  $ bash ./dnstest.sh |sort -k 22 -n
+  $ bash ./dnstest-cn.sh |sort -k 22 -n
 ```
 
 After a while,you would see the results:
