@@ -46,7 +46,7 @@ For Ubuntu:
 # Utilization
 
 ``` 
- $ git clone --depth=1 https://github.com/azurerayid/dnsperftest-cn/
+ $ git clone --depth=1 https://github.com/Joseph-ink/dnsperftest-cn/
  $ cd dnsperftest-cn
  $ bash ./dnstest-cn.sh
 ```
