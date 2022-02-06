@@ -10,7 +10,6 @@ Includes by default:
  * Alibaba 223.5.5.5
  * Baidu 180.76.76.76
  * DNSpod 119.29.29.29
- * Guangzhou Unicom DNS
  * USTC DNS
  * TUNA DNS
  * V2EX DNS
@@ -25,7 +24,7 @@ Includes by default:
  * AdGuard
  * Neustar
  * Comodo
-
+ * Other Chinese DNS Server
 
 # Required 
 
