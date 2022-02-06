@@ -219,6 +219,201 @@ Shenzhen, Guangdong	AS45090
 Shenzhen Tencent Computer Systems Company Limited
 ```
 
+```
+IP Address	Location	ASN Number
+
+158.132.187.187
+w2008s-dc04.lsgi.polyu.edu.hk	Hong Kong, Hong Kong	AS4616
+Information Technology Services
+
+59.148.213.230
+059148213230.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+59.148.249.214
+059148249214.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+59.152.214.132
+mail.tianchengauction.com	Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+61.93.207.118
+061093207118.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+61.93.221.46
+061093221046.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+101.78.189.210
+Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+103.198.192.43
+ioshare.com	Hong Kong, Hong Kong	AS55720
+Gigabit Hosting Sdn Bhd
+
+103.244.159.82
+mail.leehungfat.com.hk	Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+152.101.4.130
+ns7.hk.net	Singapore, Singapore	AS4058
+CITIC Telecom International CPC Limited
+
+202.64.161.118
+Hong Kong, Hong Kong	AS2706
+HKBN Enterprise Solutions HK Limited
+
+202.130.97.66
+dns2.ibn-ipv6.info	Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+202.130.102.211
+mail.sinocap.com.hk	Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+202.134.87.4
+static-ip-4-87-134-202.rev.dyxnet.com	Hong Kong, Hong Kong	AS9584
+Diyixian.com Limited
+
+202.155.222.251
+Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+203.186.61.66
+203186061066.static.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+203.186.217.188
+203186217188.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+210.0.128.241
+Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+210.0.128.242
+Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+210.0.255.216
+Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+210.87.250.59
+ns5.imsbiz.com	Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+210.176.64.219
+Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+210.177.222.162
+Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+210.177.222.168
+mail.tfcit.com.hk	Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+210.177.255.186
+Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+223.197.220.13
+223-197-220-13.static.imsbiz.com	Kwun Tong, Hong Kong	AS4760
+HKT Limited
+
+203.198.7.66
+ns4.netvigator.com	Hong Kong, Hong Kong	AS4760
+HKT Limited
+
+210.0.255.250
+bbdns1.on-nets.com	Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+210.0.255.251
+bbdns2.on-nets.com	Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+210.0.128.250
+ns250.on-nets.com	Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+210.0.128.251
+ns251.on-nets.com	Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+202.14.67.14
+ns2.pacific.net.hk	Hong Kong, Hong Kong	AS2706
+HKBN Enterprise Solutions HK Limited
+
+59.148.214.44
+mail1.wahtungmetal.com	Kau Wa Keng, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+116.48.150.197
+197.150.48.116.static.netvigator.com	Hong Kong, Hong Kong	AS4760
+HKT Limited
+
+210.0.255.144
+Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+202.130.97.65
+dns1.hkbnes.net.hk	Hong Kong, Hong Kong	AS9381
+HKBN Enterprise Solutions HK Limited
+
+202.14.67.4
+ns1.pacific.net.hk	Hong Kong, Hong Kong	AS2706
+HKBN Enterprise Solutions HK Limited
+
+202.180.160.1
+ns7.imsbiz.com	Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+218.102.23.228
+ns3.netvigator.com	Hong Kong, Hong Kong	AS4760
+HKT Limited
+
+203.186.182.254
+203186182254.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+203.80.116.234
+203080116234.ctinets.com	Hong Kong, Hong Kong	AS9269
+Hong Kong Broadband Network Ltd.
+
+118.140.0.238
+static-bbs-238-0-140-118-on-nets.com	Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+202.181.242.131
+ns1.apricot.com.hk	Hong Kong, Hong Kong	AS7540
+HongKong Commercial Internet Exchange
+
+210.87.250.154
+ns8.imsbiz.com	Hong Kong, Hong Kong	AS4515
+HKT Limited
+
+218.188.215.94
+static-bbs-94-215-188-218-on-nets.com	Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+202.92.168.47
+Hong Kong, Hong Kong	AS9304
+HGC Global Communications Limited
+
+202.153.110.47
+Hong Kong, Hong Kong	AS9925
+Powerbase DataCenter Services (HK) Ltd.
+
+119.81.170.18
+12.aa.5177.ip4.static.sl-reverse.com	Hong Kong, Hong Kong	AS36351
+SoftLayer Technologies Inc.
+```
 
 
 # Required 
