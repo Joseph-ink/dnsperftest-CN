@@ -150,8 +150,8 @@ for p in $NAMESERVERS $PROVIDERS; do
     for d in $DOMAINS2TEST; do
         ttime=`$dig +tries=1 +time=2 +stats @$pip $d |grep "Query time:" | cut -d : -f 2- | cut -d " " -f 2`
         if [ -z "$ttime" ]; then
-	        #let's have time out be 0.5s = 500ms
-	        ttime=500
+	        #let's have time out be 0.3s = 300ms
+	        ttime=300
         elif [ "x$ttime" = "x0" ]; then
 	        ttime=1
 	    fi
