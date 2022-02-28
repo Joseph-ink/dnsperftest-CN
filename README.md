@@ -440,6 +440,11 @@ For Ubuntu:
  $ bash ./dnstest-cn.sh
 ```
 
+Include IPv6 DNS
+```
+ $ bash ./dnstest-ipv6-cn.sh
+```
+
 The results just like that:
 ```
                test1   test2   test3   test4   test5   test6   test7   test8   test9   test10  Average 
