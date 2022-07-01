@@ -429,7 +429,7 @@ For macos:
 For Ubuntu:
 
 ```
- $ sudo apt-get install bc dnsutils
+ $ sudo apt install bc dnsutils
 ```
 
 # Utilization
