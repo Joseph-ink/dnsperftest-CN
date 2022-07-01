@@ -92,8 +92,12 @@ yandex         177 ms  216 ms  178 ms  182 ms  186 ms  177 ms  183 ms  174 ms  1
 adguard        199 ms  210 ms  200 ms  201 ms  202 ms  202 ms  199 ms  200 ms  198 ms  201 ms    201.20
 ```
 
-In Hong Kong, HKBN DNS performance better
+In Hong Kong, these DNS are Recommended to use.
 ```
+#HKBN
 202.14.67.4
 202.14.67.14
+#HGC
+210.0.128.250
+210.0.128.251
 ```
